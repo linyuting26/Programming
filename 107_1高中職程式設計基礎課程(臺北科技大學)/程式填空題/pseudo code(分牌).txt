@@ -1,0 +1,27 @@
+#include <iostream>
+#include <cstdlib>
+#include <time.h>
+#include <string>
+
+struct AMan{
+    int int_Dock and using [13];
+    std::string fn_GetCard(int int_Number){
+        //Print card style and number
+    }
+    void fn_ShowCard(){
+        //cout the array, namely int_Dock and  
+        //using fn_GetCard to show card style and number
+    }
+};
+
+
+
+int main(){
+    //Generate a dock (Number =52)
+    //Use int_Dock[52] to record 0-51; 
+    //Generate 4 mans
+    //assign each card to each man
+    
+
+    return 0;
+}
